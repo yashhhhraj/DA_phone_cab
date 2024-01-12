@@ -1,18 +1,18 @@
-### Cohort based Analysis and Insight Generation
+# Cohort based Analysis and Insight Generation
 
 This project consists of two datasets and relevant analysis.
 
-#### Dataset 1
+## Dataset 1
 
 Columns: <br>
-    userid: int<br>
-    Average Screen Time (mins): int	<br>
-    Average Spent on App (INR): int	<br>
-    Left Review: Bool	<br>
-    Ratings: int	<br>
-    New Password Request: int	<br>
-    Last Visited Minutes: int	<br>
-    Status: str<br>
+&nbsp    userid: int<br>
+&nbsp    Average Screen Time (mins): int	<br>
+&nbsp    Average Spent on App (INR): int	<br>
+&nbsp    Left Review: Bool	<br>
+&nbsp    Ratings: int	<br>
+&nbsp    New Password Request: int	<br>
+&nbsp    Last Visited Minutes: int	<br>
+&nbsp    Status: str<br>
 
 
 Cohorts:<br>
