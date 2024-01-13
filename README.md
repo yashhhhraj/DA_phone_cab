@@ -1,4 +1,4 @@
-# Cohort based Analysis and Insight Generation
+# User Behavior and Experience Analysis: A Cohort-based Approach
 
 This project consists of two datasets and relevant analysis.
 
